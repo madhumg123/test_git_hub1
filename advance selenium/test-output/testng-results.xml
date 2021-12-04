@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+    <line>
+      <![CDATA[10]]>
+    </line>
+    <line>
+      <![CDATA[20]]>
+    </line>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2021-11-11T16:01:27Z" finished-at="2021-11-11T16:01:27Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2021-11-11T16:01:27Z" finished-at="2021-11-11T16:01:27Z">
+      <class name="rcme.rcme2">
+        <test-method status="PASS" signature="run()[pri:0, instance:rcme.rcme2@1794d431]" name="run" duration-ms="0" started-at="2021-11-11T21:31:27Z" finished-at="2021-11-11T21:31:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[20]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- rcme.rcme2 -->
+      <class name="rcme.rcme1">
+        <test-method status="PASS" signature="run()[pri:0, instance:rcme.rcme1@4883b407]" name="run" duration-ms="15" started-at="2021-11-11T21:31:27Z" finished-at="2021-11-11T21:31:27Z">
+          <reporter-output>
+            <line>
+              <![CDATA[10]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- run -->
+      </class> <!-- rcme.rcme1 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

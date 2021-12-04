@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="rcme.rcme1"/>
+      <class name="rcme.rcme2"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
